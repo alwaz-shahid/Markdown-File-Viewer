@@ -5,8 +5,9 @@ name = "pypi"
 
 [packages]
 pyqt5 = "*"
-markdown = "*"
 pyqtwebengine = "*"
+markdown = "*"
+mdformat = "*"
 
 [dev-packages]
 
