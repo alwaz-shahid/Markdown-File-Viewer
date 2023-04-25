@@ -12,6 +12,10 @@ This is a Python-based program that allows users to view Markdown files offline.
 
 <br/>
 
+`pipenv shell`
+
+`pipenv install`
+
 `python app.py`
 
 `python3 app.py`
