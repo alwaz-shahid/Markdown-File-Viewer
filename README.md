@@ -9,3 +9,9 @@ This is a Python-based program that allows users to view Markdown files offline.
 #### Collaborators: You can include the names of any collaborators or contributors to the project here.
 
 > Keywords: Markdown, Python, PyQt5, offline viewer, live preview, HTML
+
+<br/>
+
+`python app.py`
+
+`python3 app.py`
